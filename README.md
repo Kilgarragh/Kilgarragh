@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kilgarragh
-- 👀 I’m interested in programming languages, hardware, reverse engineering for modification, and low electronics repair/diagnostics.
-- 🌱 I’m currently learning stenography.
+- 👀 I’m interested in programming languages, hardware, reverse engineering for modification, and low level electronics repair/diagnostics.
+- 🌱 I’m currently learning stenography(for programming).
 - 💞️ I’m looking to collaborate on a modular smartphone.
 - 📫 How to reach me ...
 
