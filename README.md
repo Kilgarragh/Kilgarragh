@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kilgarragh
-- 👀 I’m interested in programming languages, 3d rendering, game engines, hardware, reverse engineering.
-- 🌱 I’m currently learning motherboard design and layout.
-- 💞️ I’m looking to collaborate on a computer motherboard diagnostics device.
+- 👀 I’m interested in programming languages, hardware, reverse engineering for modification, and low electronics repair/diagnostics.
+- 🌱 I’m currently learning stenography.
+- 💞️ I’m looking to collaborate on a modular smartphone.
 - 📫 How to reach me ...
 
 <!---
